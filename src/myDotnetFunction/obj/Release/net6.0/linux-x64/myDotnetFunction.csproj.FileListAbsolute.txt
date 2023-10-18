@@ -1,0 +1,17 @@
+E:\Projects\myDotnetFunction\src\myDotnetFunction\bin\Release\net6.0\linux-x64\myDotnetFunction.deps.json
+E:\Projects\myDotnetFunction\src\myDotnetFunction\bin\Release\net6.0\linux-x64\myDotnetFunction.runtimeconfig.json
+E:\Projects\myDotnetFunction\src\myDotnetFunction\bin\Release\net6.0\linux-x64\myDotnetFunction.dll
+E:\Projects\myDotnetFunction\src\myDotnetFunction\bin\Release\net6.0\linux-x64\myDotnetFunction.pdb
+E:\Projects\myDotnetFunction\src\myDotnetFunction\bin\Release\net6.0\linux-x64\Amazon.Lambda.Core.dll
+E:\Projects\myDotnetFunction\src\myDotnetFunction\bin\Release\net6.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+E:\Projects\myDotnetFunction\src\myDotnetFunction\obj\Release\net6.0\linux-x64\myDotnetFunction.csproj.AssemblyReference.cache
+E:\Projects\myDotnetFunction\src\myDotnetFunction\obj\Release\net6.0\linux-x64\myDotnetFunction.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\myDotnetFunction\src\myDotnetFunction\obj\Release\net6.0\linux-x64\myDotnetFunction.AssemblyInfoInputs.cache
+E:\Projects\myDotnetFunction\src\myDotnetFunction\obj\Release\net6.0\linux-x64\myDotnetFunction.AssemblyInfo.cs
+E:\Projects\myDotnetFunction\src\myDotnetFunction\obj\Release\net6.0\linux-x64\myDotnetFunction.csproj.CoreCompileInputs.cache
+E:\Projects\myDotnetFunction\src\myDotnetFunction\obj\Release\net6.0\linux-x64\myDotnetFunction.csproj.CopyComplete
+E:\Projects\myDotnetFunction\src\myDotnetFunction\obj\Release\net6.0\linux-x64\myDotnetFunction.dll
+E:\Projects\myDotnetFunction\src\myDotnetFunction\obj\Release\net6.0\linux-x64\refint\myDotnetFunction.dll
+E:\Projects\myDotnetFunction\src\myDotnetFunction\obj\Release\net6.0\linux-x64\myDotnetFunction.pdb
+E:\Projects\myDotnetFunction\src\myDotnetFunction\obj\Release\net6.0\linux-x64\myDotnetFunction.genruntimeconfig.cache
+E:\Projects\myDotnetFunction\src\myDotnetFunction\obj\Release\net6.0\linux-x64\ref\myDotnetFunction.dll

@@ -1,0 +1,6 @@
+E:\Projects\myDotnetFunction\src\myDotnetFunction\bin\Release\net6.0\publish\myDotnetFunction.deps.json
+E:\Projects\myDotnetFunction\src\myDotnetFunction\bin\Release\net6.0\publish\myDotnetFunction.runtimeconfig.json
+E:\Projects\myDotnetFunction\src\myDotnetFunction\bin\Release\net6.0\publish\myDotnetFunction.pdb
+E:\Projects\myDotnetFunction\src\myDotnetFunction\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+E:\Projects\myDotnetFunction\src\myDotnetFunction\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+E:\Projects\myDotnetFunction\src\myDotnetFunction\bin\Release\net6.0\publish\myDotnetFunction.dll
